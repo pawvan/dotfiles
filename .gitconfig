@@ -1,0 +1,14 @@
+# Custom .gitconfig
+
+[user]
+    name = pawan
+    email =pawanpediredla@gmail.com
+
+[core]
+    editor = vim
+
+[alias]
+    co = checkout
+    br = branch
+    cm = commit
+    st = status
